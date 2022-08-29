@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/KTTKPM/jar_files/apache-logging-log4j.jar"/>
+	<classpathentry kind="lib" path="D:/KTTKPM/jar_files/javax.xml.bind.jar"/>
+	<classpathentry kind="lib" path="D:/KTTKPM/apache-activemq-5.16.5/activemq-all-5.16.5.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
